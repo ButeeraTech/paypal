@@ -1,7 +1,8 @@
 Abubakar
 Buteera
 Amaarah
-Eezee 
+Shad 
 Iyyah
 Khabaqa
 Aaliyah
+
