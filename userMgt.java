@@ -3,3 +3,4 @@ Buteera
 Amaarah
 Eezee 
 Iyyah
+Khabaqa
