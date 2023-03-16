@@ -1,2 +1,8 @@
-NodeJS applications 
-.net applications 
+We support:
+java applications,
+.net applications
+NodeJS applications
+python applictions
+web applications 
+bug removed
+fg
